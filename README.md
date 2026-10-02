@@ -9,7 +9,7 @@ apps, and AI-assisted development.
 ## 👤 About me
 
 - [x] I'm an Electrical/Electronic Engineering student (Communication major) 🎓
-- [x] I build full-stack apps with Laravel and Next.js 💻
+- [x] I build full-stack apps with Laravel, Flutter and Next.js 💻
 - [x] I use AI-assisted tools like Google Antigravity in my workflow 🤖
 - [x] I'm always learning new frameworks and tools 📚
 
